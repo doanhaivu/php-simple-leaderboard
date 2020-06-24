@@ -1,6 +1,7 @@
 # php-simple-leaderboard
 
-Simple APIs written in PHP, interacting with a NoSQL database (using memcached client)
+Simple APIs written in PHP, interact with a NoSQL database (using memcached client)
+
 Has the following operations:
 - Get timestamp
 - Post a transaction with SHA-1 hash verificatiton
